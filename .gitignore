@@ -1,0 +1,8 @@
+# Environment variables (contains secrets)
+.env
+
+# Summaries
+summaries/
+
+# Temporary working directory
+.tmp/
